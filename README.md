@@ -1,0 +1,1 @@
+Tvorba jednoduhého PHP Blogu.
